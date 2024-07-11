@@ -1,0 +1,81 @@
+.accordion {
+    max-width: 480px;
+    margin: 20px auto 20px;
+}
+
+div#collapseOne {
+    transition: all .5s ease-in-out;
+    background-color: #f4f4f4;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+div#collapseTwo {
+    transition: all .5s ease-in-out;
+    background-color: #f4f4f4;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+div#collapseThree {
+    transition: all .5s ease-in-out;
+    background-color: #f4f4f4;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+div#collapseFour {
+    transition: all .5s ease-in-out;
+    background-color: #f4f4f4;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+div#collapseFive {
+    transition: all .5s ease-in-out;
+    background-color: #f4f4f4;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+div#collapseSix {
+    transition: all .5s ease-in-out;
+    background-color: #f4f4f4;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+div#collapseSeven {
+    transition: all .5s ease-in-out;
+    background-color: #f4f4f4;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+div#collapseEight {
+    transition: all .5s ease-in-out;
+    background-color: #f4f4f4;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+div#collapseNine {
+    transition: all .5s ease-in-out;
+    background-color: #f4f4f4;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+div#collapseTen {
+    transition: all .5s ease-in-out;
+    background-color: #f4f4f4;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+@keyframes load {
+    0% {
+        width: 0%;
+        background: #ff0;
+    }
+
+    50% {
+        width: 70%;
+        background: #f0f;
+    }
+
+    100% {
+        width: 100%;
+        background: #0ff;
+    }
+}
